@@ -1,0 +1,5 @@
+{
+  "name": "Gestão 360",
+  "description": "Uma plataforma SaaS para prestadores de serviço gerenciarem seus negócios e gerarem um site público para clientes. Este MVP inclui um painel de administração e um site público gerado automaticamente.",
+  "requestFramePermissions": []
+}
