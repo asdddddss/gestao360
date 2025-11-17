@@ -1,9 +1,5 @@
 {
-  "projects": {
-    "default": {
-      "path": "saasmvp",
-      "command": "npm run build",
-      "outputDirectory": "dist"
-    }
-  }
+  "installCommand": "cd saasmvp && npm install --legacy-peer-deps",
+  "buildCommand": "cd saasmvp && npm run build",
+  "outputDirectory": "saasmvp/dist"
 }
